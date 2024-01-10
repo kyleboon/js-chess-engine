@@ -1,0 +1,22 @@
+{
+  "name": "js-chess-engine",
+  "version": "1.0.0",
+  "description": "Simple chess engine in pure js",
+  "main": "chess.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleboon/js-chess-engine.git"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "Kyle Boon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyleboon/js-chess-engine/issues"
+  },
+  "homepage": "https://github.com/kyleboon/js-chess-engine#readme"
+}
